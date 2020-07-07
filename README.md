@@ -1,6 +1,6 @@
 # test_wifi
 
-A new Flutter project.
+This repo can connection with wifi and show list wifi 
 
 ## Getting Started
 
