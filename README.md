@@ -1,7 +1,3 @@
-# test_wifi
-
-This repo can connection with wifi and show list wifi 
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
